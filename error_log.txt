@@ -1,0 +1,9 @@
+2018-08-27 16:19:01
+
+
+1. Error: Cannot map ID: 5025N to order's Item from POULTRY, row 26
+2. Error: Cannot map ID: 5035AF to order's Item from POULTRY, row 35
+3. Error: Cannot map ID: 5034 to order's Item from POULTRY, row 39
+4. Error: Cannot map ID: 5022 to order's Item from POULTRY, row 43
+5. Error: Cannot map ID: 7010 to order's Item from POULTRY, row 46
+6. Error: Unrecognized file /Users/yozubear/Desktop/price_update/lists/happy.xlsx

@@ -1,0 +1,11 @@
+2018-08-27 16:19:01
+WEAK ID MATCHING: False
+
+
+1. 5025: $4.49 replaced with 5025: $4.39
+2. 5024: $2.49 replaced with 5024: $2.95
+3. 5032: $0.95 replaced with 5032: $1.36
+4. 5030: $1.52 replaced with 5030: $1.55
+
+
+successfully updated
